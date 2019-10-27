@@ -1,3 +1,5 @@
 /.metadata/
 /RemoteSystemsTempFiles/
 jmeter.log
+/output/
+results.csv
